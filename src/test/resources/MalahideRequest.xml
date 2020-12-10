@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E818 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Greystones</Origin>
+        <Destination>Malahide</Destination>
+        <Origintime>11:34</Origintime>
+        <Destinationtime>13:00</Destinationtime>
+        <Status>En Route</Status>
+        <Lastlocation>Departed Howth Junction</Lastlocation>
+        <Duein>11</Duein>
+        <Late>0</Late>
+        <Exparrival>13:00</Exparrival>
+        <Expdepart>00:00</Expdepart>
+        <Scharrival>13:00</Scharrival>
+        <Schdepart>00:00</Schdepart>
+        <Direction>Northbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>D</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>D808 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Dublin Connolly</Origin>
+        <Destination>Drogheda</Destination>
+        <Origintime>12:50</Origintime>
+        <Destinationtime>13:44</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>16</Duein>
+        <Late>0</Late>
+        <Exparrival>13:05</Exparrival>
+        <Expdepart>13:05</Expdepart>
+        <Scharrival>13:05</Scharrival>
+        <Schdepart>13:05</Schdepart>
+        <Direction>Northbound</Direction>
+        <Traintype>Train</Traintype>
+        <Locationtype>S</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E819 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Bray</Origin>
+        <Destination>Malahide</Destination>
+        <Origintime>12:05</Origintime>
+        <Destinationtime>13:20</Destinationtime>
+        <Status>En Route</Status>
+        <Lastlocation>Arrived Tara Street</Lastlocation>
+        <Duein>31</Duein>
+        <Late>0</Late>
+        <Exparrival>13:20</Exparrival>
+        <Expdepart>00:00</Expdepart>
+        <Scharrival>13:20</Scharrival>
+        <Schdepart>00:00</Schdepart>
+        <Direction>Northbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>D</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E820 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Bray</Origin>
+        <Destination>Malahide</Destination>
+        <Origintime>12:25</Origintime>
+        <Destinationtime>13:42</Destinationtime>
+        <Status>En Route</Status>
+        <Lastlocation>Departed Salthill and Monkstown</Lastlocation>
+        <Duein>54</Duein>
+        <Late>1</Late>
+        <Exparrival>13:43</Exparrival>
+        <Expdepart>00:00</Expdepart>
+        <Scharrival>13:42</Scharrival>
+        <Schdepart>00:00</Schdepart>
+        <Direction>Northbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>D</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E821 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Greystones</Origin>
+        <Destination>Malahide</Destination>
+        <Origintime>12:34</Origintime>
+        <Destinationtime>14:00</Destinationtime>
+        <Status>En Route</Status>
+        <Lastlocation>Arrived Shankill</Lastlocation>
+        <Duein>71</Duein>
+        <Late>0</Late>
+        <Exparrival>14:00</Exparrival>
+        <Expdepart>00:00</Expdepart>
+        <Scharrival>14:00</Scharrival>
+        <Schdepart>00:00</Schdepart>
+        <Direction>Northbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>D</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>D810 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Dublin Connolly</Origin>
+        <Destination>Drogheda</Destination>
+        <Origintime>13:50</Origintime>
+        <Destinationtime>14:44</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>77</Duein>
+        <Late>0</Late>
+        <Exparrival>14:05</Exparrival>
+        <Expdepart>14:06</Expdepart>
+        <Scharrival>14:05</Scharrival>
+        <Schdepart>14:06</Schdepart>
+        <Direction>Northbound</Direction>
+        <Traintype>Train</Traintype>
+        <Locationtype>S</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E229 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Malahide</Origin>
+        <Destination>Bray</Destination>
+        <Origintime>12:50</Origintime>
+        <Destinationtime>14:05</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>1</Duein>
+        <Late>0</Late>
+        <Exparrival>00:00</Exparrival>
+        <Expdepart>12:50</Expdepart>
+        <Scharrival>00:00</Scharrival>
+        <Schdepart>12:50</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>O</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>P706 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Drogheda</Origin>
+        <Destination>Dublin Connolly</Destination>
+        <Origintime>12:20</Origintime>
+        <Destinationtime>13:18</Destinationtime>
+        <Status>En Route</Status>
+        <Lastlocation>Arrived Rush and Lusk</Lastlocation>
+        <Duein>8</Duein>
+        <Late>0</Late>
+        <Exparrival>12:56</Exparrival>
+        <Expdepart>12:57</Expdepart>
+        <Scharrival>12:56</Scharrival>
+        <Schdepart>12:57</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>Train</Traintype>
+        <Locationtype>S</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E230 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Malahide</Origin>
+        <Destination>Bray</Destination>
+        <Origintime>13:10</Origintime>
+        <Destinationtime>14:25</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>21</Duein>
+        <Late>0</Late>
+        <Exparrival>00:00</Exparrival>
+        <Expdepart>13:10</Expdepart>
+        <Scharrival>00:00</Scharrival>
+        <Schdepart>13:10</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>O</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E116 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Malahide</Origin>
+        <Destination>Greystones</Destination>
+        <Origintime>13:30</Origintime>
+        <Destinationtime>14:56</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>41</Duein>
+        <Late>0</Late>
+        <Exparrival>00:00</Exparrival>
+        <Expdepart>13:30</Expdepart>
+        <Scharrival>00:00</Scharrival>
+        <Schdepart>13:30</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>O</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E233 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Malahide</Origin>
+        <Destination>Bray</Destination>
+        <Origintime>13:50</Origintime>
+        <Destinationtime>15:05</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>61</Duein>
+        <Late>0</Late>
+        <Exparrival>00:00</Exparrival>
+        <Expdepart>13:50</Expdepart>
+        <Scharrival>00:00</Scharrival>
+        <Schdepart>13:50</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>O</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>P708 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Dundalk</Origin>
+        <Destination>Dublin Connolly</Destination>
+        <Origintime>12:45</Origintime>
+        <Destinationtime>14:11</Destinationtime>
+        <Status>En Route</Status>
+        <Lastlocation>Departed Dundalk</Lastlocation>
+        <Duein>61</Duein>
+        <Late>3</Late>
+        <Exparrival>13:49</Exparrival>
+        <Expdepart>13:50</Expdepart>
+        <Scharrival>13:46</Scharrival>
+        <Schdepart>13:47</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>Train</Traintype>
+        <Locationtype>S</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>E234 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Malahide</Origin>
+        <Destination>Bray</Destination>
+        <Origintime>14:10</Origintime>
+        <Destinationtime>15:25</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>81</Duein>
+        <Late>0</Late>
+        <Exparrival>00:00</Exparrival>
+        <Expdepart>14:10</Expdepart>
+        <Scharrival>00:00</Scharrival>
+        <Schdepart>14:10</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>DART</Traintype>
+        <Locationtype>O</Locationtype>
+    </objStationData>
+    <objStationData>
+        <Servertime>2020-12-01T12:49:33.54</Servertime>
+        <Traincode>P709 </Traincode>
+        <Stationfullname>Malahide</Stationfullname>
+        <Stationcode>MHIDE</Stationcode>
+        <Querytime>12:49:33</Querytime>
+        <Traindate>01 Dec 2020</Traindate>
+        <Origin>Drogheda</Origin>
+        <Destination>Dublin Connolly</Destination>
+        <Origintime>13:40</Origintime>
+        <Destinationtime>14:38</Destinationtime>
+        <Status>No Information</Status>
+        <Lastlocation />
+        <Duein>88</Duein>
+        <Late>0</Late>
+        <Exparrival>14:16</Exparrival>
+        <Expdepart>14:17</Expdepart>
+        <Scharrival>14:16</Scharrival>
+        <Schdepart>14:17</Schdepart>
+        <Direction>Southbound</Direction>
+        <Traintype>Train</Traintype>
+        <Locationtype>S</Locationtype>
+    </objStationData>
+</ArrayOfObjStationData>

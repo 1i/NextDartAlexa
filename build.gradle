@@ -1,0 +1,37 @@
+plugins {
+    id "com.github.johnrengelman.shadow" version "6.1.0"
+    id "io.micronaut.library" version '1.0.5'
+}
+
+
+version "0.1"
+group "com.onei"
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+micronaut {
+    testRuntime "junit5"
+    processing {
+        incremental true
+        annotations "com.onei.*"
+    }
+}
+
+dependencies {
+    implementation("io.micronaut:micronaut-validation")
+    implementation("io.micronaut:micronaut-runtime")
+    implementation("io.micronaut.aws:micronaut-function-aws")
+    implementation("io.micronaut.aws:micronaut-function-aws-alexa")
+    implementation("io.micronaut.aws:micronaut-aws-sdk-v2")
+    runtimeOnly("ch.qos.logback:logback-classic")
+    implementation("io.micronaut:micronaut-http-client")
+    implementation("io.micronaut.xml:micronaut-jackson-xml")
+}
+
+java {
+    sourceCompatibility = JavaVersion.toVersion('1.8')
+    targetCompatibility = JavaVersion.toVersion('1.8')
+}
