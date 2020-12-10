@@ -1,8 +1,11 @@
-## Handler
+## Next Dart Alexa app
 
-[AWS Lambda Handler](https://docs.aws.amazon.com/lambda/latest/dg/java-handler.html)
+Get the Irish rail times for the Dart for the Dublin area.
 
-Handler: com.onei.BookRequestHandler
+`
+./gradlew clean build
+aws lambda update-function-code --function-name birdus-alexa --zip-file fileb://./alexa-1.0-SNAPSHOT.jar
+`
 
 ## Feature aws-lambda documentation
 
